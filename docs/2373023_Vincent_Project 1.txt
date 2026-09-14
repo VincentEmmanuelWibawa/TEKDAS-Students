@@ -1,0 +1,17 @@
+1. lapisan mana yang paling saya pahami
+2. lapisan nana yang masih saya campuradukkan
+3. bukti apa yang membuat sebuah system layak disebut "cerdas" dan bertanggung jawab?
+
+
+jawaban :
+
+1. Lapisan yang Paling Dipahami
+Bagian yang paling Anda pahami adalah lapisan paling luar atau operasional dasar, seperti mengetik perintah di terminal, membuka aplikasi, atau melihat dan menjalankan program secara langsung di layar komputer Anda.
+
+2. materi yang disediakan dijelaskan kurang berurutan, jadi lapisan yang saya mengerti untuk saat ini hanya bagian quarto, GitHub, rendering, python, dan commit serta push.
+
+3. Bisa Menyesuaikan Diri dengan Situasi Baru: Sistem yang cerdas tidak hanya menghafal jawaban, tetapi mampu memberikan respons yang masuk akal saat menghadapi data atau pertanyaan baru yang belum pernah diajarkan sebelumnya.
+
+Transparan dan Bisa Dijelaskan: Keputusan atau jawaban yang diberikan oleh sistem tidak asal-asalan, melainkan dapat ditelusuri alasan atau proses berpikirnya oleh manusia (bukan sekadar "kotak hitam" yang misterius).
+
+Berada di Bawah Kendali Manusia: Sistem yang bertanggung jawab harus memiliki batas yang jelas dan selalu bisa dihentikan atau dikoreksi oleh manusia jika mulai memberikan hasil yang salah, berbahaya, atau merugikan.
