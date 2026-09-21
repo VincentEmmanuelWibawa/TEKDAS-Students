@@ -1,4 +1,3 @@
-"""Dashboard generik proyek Adapt. Ganti BI dan UX sesuai problem."""
 
 from pathlib import Path
 import json
