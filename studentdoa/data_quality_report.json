@@ -1,0 +1,22 @@
+{
+  "source_file": "studentdoa.csv",
+  "rows": 4424,
+  "columns": 35,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "class_counts": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  },
+  "class_percentages": {
+    "Graduate": 49.93,
+    "Dropout": 32.12,
+    "Enrolled": 17.95
+  },
+  "train_rows": 3539,
+  "test_rows": 885,
+  "feature_count": 34,
+  "numeric_feature_count": 16,
+  "note": "Kolom semester 2 dipakai sebagai fitur; prediksi ini menggunakan informasi setelah semester 2, bukan prediksi saat pendaftaran."
+}
