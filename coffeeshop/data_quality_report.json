@@ -1,0 +1,19 @@
+{
+  "source_file": "Coffee Shop Sales.xlsx",
+  "source_rows": 149116,
+  "prepared_rows": 149116,
+  "removed_rows": 0,
+  "duplicate_transaction_ids": 0,
+  "date_min": "2023-01-01",
+  "date_max": "2023-06-30",
+  "train_rows": 119292,
+  "test_rows": 29824,
+  "train_end_date": "2023-06-05",
+  "test_start_date": "2023-06-05",
+  "target": "transaction_qty",
+  "target_mean": 1.438,
+  "target_median": 1.0,
+  "target_max": 8,
+  "missing_values_after_prep": 0,
+  "note": "Model memprediksi jumlah unit per transaksi; pengujian memakai transaksi dengan tanggal paling akhir."
+}
